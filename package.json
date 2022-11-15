@@ -1,5 +1,6 @@
 {
-  "devDependencies": {
-    "cypress": "^11.0.1"
-  }
+  "name": "4_chat",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {}
 }
